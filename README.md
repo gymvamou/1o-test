@@ -1,2 +1,2 @@
-# 1o-test
+# Automatic Watering System
 automatic watering
